@@ -9,7 +9,7 @@ Beforehand it will filter "double data" in the form of: <br>
 
 # install
 
-1. download the script
+1. download the script (Get-EDGAR-Request.ps1)
 2. edit personal settings (can be found on top of script)
 3. run the script with powershell
 
